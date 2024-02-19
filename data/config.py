@@ -3,7 +3,7 @@ from environs import Env
 # environs kutubxonasidan foydalanish
 env = Env()
 env.read_env()
-ADMINS="6484918914"
+ADMINS=["6484918914","5016660387"]
 BOT_TOKEN="6773234732:AAGNxsZio1EkZL7eK8vIYftjxs7aepUBgTQ"
 ip="localhost"
 DB_USER="telegram_bot_db_kehw_user"
